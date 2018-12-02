@@ -1,0 +1,2 @@
+// Generar un componente
+ng g component Content --spec=fw --prefix=false --skip-import=true
